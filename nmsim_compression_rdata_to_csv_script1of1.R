@@ -17,6 +17,7 @@
 # nmsimRuntime(data):
 #   Return total model vehicle runtime
 #
+#
 ###############################################################################
 # Pick the R Script for Compression (RData files to csv files) ----------------------------------------
 setwd("F:\\THRO_TAR1818\\NMSIM\\Output_Data\\LNATinclu_60m_2sec\\")
